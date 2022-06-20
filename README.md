@@ -9,7 +9,7 @@ To use the JellySkin theme copy the line below into "Dashboard -> General -> Cus
 Latest/Specific Version:
   
 ```css
-  @import url("https://cdn.jsdelivr.net/gh/Ammaar-e/jellyTIN@main/deafult.css");
+  @import url("https://cdn.jsdelivr.net/gh/Ammaar-e/jellyTIN@main/deafulyt.css");
 ```
 <h3>Here are some images:</h3>
   
