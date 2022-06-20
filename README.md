@@ -10,5 +10,5 @@ To use the JellySkin theme copy the line below into "Dashboard -> General -> Cus
 Latest/Specific Version:
   
 ```css
-  @import url("https://cdn.jsdelivr.net/gh/prayag17/JellySkin@latest/default.css");
+  @import url("https://cdn.jsdelivr.net/gh/Ammaar-e/jellyfin@main/deafult.css");
 ```
