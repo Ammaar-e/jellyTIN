@@ -1,5 +1,6 @@
 <div align="center">
 <h1>JellyTIN</h1><br>
+<img src="https://api.netlify.com/api/v1/badges/93762ddd-75ff-4cda-a0e0-e09a00d488e8/deploy-status">
 <br>
 <h3>Use 67% or 70% zoom in web browser for better experience</h3>
 </div>
