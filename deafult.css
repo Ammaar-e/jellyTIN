@@ -1,10 +1,6 @@
 /* Make watched icon green and checkmarked*/
 .playedIndicator { background: #5dd000; }
 
-/* Hides The Home Button In Top Left Corner*/
-.headerHomeButton { display: none; }
-.headerButton.headerButtonRight.headerUserButton.paper-icon-button-light { display: none; }
-
 /* Hides Sync Button*/
 .headerSyncButton { display: none; }
 
