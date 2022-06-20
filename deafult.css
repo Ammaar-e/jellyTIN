@@ -1,0 +1,45 @@
+/* Make watched icon green and checkmarked*/
+.playedIndicator { background: #5dd000; }
+
+/* Hides The Home Button In Top Left Corner*/
+.headerHomeButton { display: none; }
+.headerButton.headerButtonRight.headerUserButton.paper-icon-button-light { display: none; }
+
+/* Hides Sync Button*/
+.headerSyncButton { display: none; }
+
+/* Login Page*/
+#loginPage {
+  background: url("https://preview.redd.it/qb7f494aq5v41.jpg?width=960&crop=smart&auto=webp&s=ca0d2def9697b8acd4e1f9f7b21ca2e8af29c24a");
+  background-size: cover;
+}
+
+/* Home Page Image*/
+.backdropImage { display: none; }
+
+.backgroundContainer {
+  background-color: rgba(0, 0, 0, 0);
+  background-image: url("https://preview.redd.it/qb7f494aq5v41.jpg?width=960&crop=smart&auto=webp&s=ca0d2def9697b8acd4e1f9f7b21ca2e8af29c24a");
+  filter: blur(10px);
+  background-size: cover;
+}
+
+/* Rounded Corners*/
+.cardContent-button,
+.itemDetailImage {
+  border-radius: 0.25em;
+}
+
+/* Narrow the login form */
+#loginPage .readOnlyContent, #loginPage form {max-width: 22em;}
+
+/* Hide "please login" text, margin is to prevent login form moving too far up */
+#loginPage h1 {display: none}
+#loginPage .padded-left.padded-right.padded-bottom-page {margin-top: 50px}
+
+/* Hide "manual" and "forgot" buttons */
+#loginPage .raised.cancel.block.btnManual.emby-button {display: none}
+#loginPage .raised.cancel.block.btnForgotPassword.emby-button {display: none}
+
+/* Full HEader*/
+.skinHeader, .mainDrawer, .emby-input, .emby-textarea, .emby-select, .navMenuOption-selected, .cardBox, .paperList { background: #4F5D75; }
