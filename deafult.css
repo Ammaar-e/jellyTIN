@@ -153,3 +153,29 @@ a.listItem-border {
   overflow: hidden;
   border: 0.01em solid #191819;
 }
+
+/*Blur backdrops, feel free to edit the intensity of the filter values*/
+
+.backdropImage {
+  -webkit-filter: blur(10px) saturate(110%) contrast(110%) brightness(95%);
+  filter: blur(10px) saturate(110%) contrast(110%) brightness(95%);
+}
+
+.backgroundContainer.withBackdrop {
+  background: rgba(24, 24, 24, 0.5);
+  box-shadow: inset 0 0 100px 100px rgb(4 4 4 / 85%);
+}
+
+.layout-desktop .itemBackdrop:after,
+.layout-tv .itemBackdrop:after {
+  background: transparent;
+}
+
+.dialog {
+  background-color: rgba(0, 0, 0, 0.1);
+  backdrop-filter: blur(60px) !important;
+  -webkit-backdrop-filter: blur(60px) !important;
+  -moz-backdrop-filterss: blur (60px) !important;
+  -o-backdrop-filter: blur(60px) !important;
+  box-shadow: 0 0 0 500vw rgb(0, 0, 0, 0.5), 0 0 20px 4px black;
+}
