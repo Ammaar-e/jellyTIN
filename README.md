@@ -11,3 +11,20 @@ Latest/Specific Version:
 ```css
   @import url("https://cdn.jsdelivr.net/gh/Ammaar-e/jellyfin@main/deafult.css");
 ```
+<h3>Here are some images:</h3>
+  
+  <h5>Login Page</h5>
+<img src="https://cdn.jsdelivr.net/gh/Ammaar-e/jellyTIN@main/images/login.png">
+
+<h5>Home screen:</h5>
+<img src="https://cdn.jsdelivr.net/gh/Ammaar-e/jellyTIN@main/images/home.png">
+
+<h5>Title screen:</h5>
+<img src="https://cdn.jsdelivr.net/gh/Ammaar-e/jellyTIN@main/images/Title.png">
+
+<h5>TV Shows Season Episode list:</h5>
+<img src="https://cdn.jsdelivr.net/gh/Ammaar-e/jellyTIN@main/images/TV.png">
+
+<h5>Settings</h5>
+<img src="https://cdn.jsdelivr.net/gh/Ammaar-e/jellyTIN@main/images/Settings.png">
+<br>
